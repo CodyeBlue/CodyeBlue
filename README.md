@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hello! I’m a programming student who’s passionate about game development. I’m currently working on several projects involving Godot, Roblox Studio, web development, and Blender. I’m always looking for new ideas, eager to learn new things, and striving to improve my skills.<br>Right now, I’m deepening my knowledge of Godot, Blender, and C#, while continuing to explore Lua. I have a special interest in game development and am always eager to try out new technologies and bring creative ideas to life through programming.<br>
+Hello! I’m a programming student who’s passionate about game development. I’m currently working on several projects involving Godot, Roblox Studio, web development, and Blender. I’m always looking for new ideas, learning new things, and improving my skills.
+Right now, I’m deepening my knowledge of Godot, Blender, C#, Dart, and Flutter, while continuing to explore Lua. I have a special interest in game development, but I also enjoy exploring other areas of technology and experimenting with new tools. My goal is to keep learning, develop my skills, and bring creative ideas to life through programming.<br>
 
 
 ## 🌐 Socials:
